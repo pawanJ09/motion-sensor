@@ -7,6 +7,7 @@ led.low()
 utime.sleep(3)
 
 while True:
+    # Ideally this should be checking for 0 but the sensor I had didnt give a good voltage
     if pir.value() == 1:
         print('Motion Detected!')
         led.high()
