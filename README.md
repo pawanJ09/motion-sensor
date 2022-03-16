@@ -22,7 +22,7 @@ Micropython.
 ## Running the application locally
 
 Follow the pin diagram and complete the setup. After completing your setup connect your 
-Raspberry Pi Pico to your laptop/computer using a USB-C cable and run the sense.py program.
+Raspberry Pi Pico to your laptop/computer using a USB-C cable and run the main.py program.
 
 
 

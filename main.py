@@ -2,7 +2,7 @@ from machine import Pin
 import utime
 
 led = Pin(28, Pin.OUT)
-pir = Pin(26, Pin.IN, Pin.PULL_UP)
+pir = Pin(16, Pin.IN, Pin.PULL_UP)
 led.low()
 utime.sleep(3)
 
