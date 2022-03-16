@@ -6,7 +6,7 @@ Micropython.
 
 ## Requirements
 
-- [Raspberry Pi Pico]()
+- [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 - Breadboard
 - PIR Motion Sensor
 - Jumper cables with M-F connectors
